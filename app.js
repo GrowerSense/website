@@ -6,7 +6,7 @@ var logger = require('morgan');
 var cookieParser = require('cookie-parser');
 var bodyParser = require('body-parser');
 
-var MONGOLAB_URI = 'mongodb://heroku_app24603319:8phs1m8e1ii703mrf7cjpbe5j@ds031777.mongolab.com:31777/heroku_app24603319';
+var MONGOLAB_URI = 'mongodb://grower-sense-user:grow!()@ds047438.mongolab.com:47438/heroku_app25345546';
 
 var mongo = require('mongodb');
 var monk = require('monk');
